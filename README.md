@@ -41,9 +41,10 @@ During the subsequent "AFTER" metrics phase, significant security enhancements w
 
 ## Metrics Before Hardening / Security Controls
 
-The table below outlines the metrics evaluated within our insecure environment over a 24-hour period, Start Time 2024-02-09 01:59:20, Stop Time 2024-10-02 01:59:20.
+The table below outlines the metrics evaluated within our insecure environment over a 24-hour period:
 
 Start Time 2024-02-09 01:59
+
 Stop Time 2024-02-10  01:59
 
 | Metric                   | Count
@@ -60,8 +61,10 @@ Stop Time 2024-02-10  01:59
 
 ## Metrics After Hardening / Security Controls
 
-The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
+The presented table illustrates the metrics assessed within our environment over an additional 24-hour duration. These measurements were taken subsequent to the implementation of enhanced security controls:
+
 Start Time 2024-02-14 05:21
+
 Stop Time	2024-02-15  05:21
 
 | Metric                   | Count
