@@ -11,7 +11,7 @@ In this project, I constructed a miniature honeynet within the Azure environment
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![https://github.com/Gladys-TM/Cloud-Azure-SOC/blob/main/Unsecured%20NSGs.jpg)
+![Architecture Diagram](https://github.com/Gladys-TM/Cloud-Azure-SOC/blob/main/Unsecured%20NSGs.jpg)
 
 ## Architecture After Hardening / Security Controls
 ![Architecture Diagram](https://github.com/Gladys-TM/Cloud-Azure-SOC/blob/main/Secure%20NSGs.jpg)
